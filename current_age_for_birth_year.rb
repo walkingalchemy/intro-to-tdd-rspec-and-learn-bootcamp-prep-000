@@ -1,3 +1,3 @@
-def current_age_for_birth_year(age)
-  2017 - age
+def current_age_for_birth_year(year)
+  age = 2017 - year
 end
